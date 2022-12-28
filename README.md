@@ -4,3 +4,5 @@ This is the first landing page I have made while following a design.
 - CSS
 - Flexbox
 - Desktop design
+
+https://beans-injeans.github.io/first-landing-page/
